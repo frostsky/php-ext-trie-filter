@@ -5,6 +5,9 @@ php extension for spam word filter based on Double-Array Trie tree, it can detec
 
 关键词过滤扩展，用于检查一段文本中是否出现敏感词，基于Double-Array Trie 树实现。
 
+## 注意
+本扩展是基于PHP5.\*版本开发，不适用PHP7
+
 ## 升级历史
 
 ### 2013-06-23
